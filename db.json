@@ -1,14 +1,4 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "manifestUrl": "https://abc.com.vn/manifest/manipulation/master/7d47b94e-7e65-4f9f-9fcf-9f104032ac0d/origin04/scte35-av4s-clear/master.m3u8?sessionId=7dc2390f-7624-4a73-b74f-c761313a0a7d",
+    "trackingUrl": "https://abc.com.vn/manifest/manipulation/tracking/7d47b94e-7e65-4f9f-9fcf-9f104032ac0d/7dc2390f-7624-4a73-b74f-c761313a0a7d"
 }
